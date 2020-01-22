@@ -11,6 +11,6 @@ Pics below show the UI under gamma space, linear space and linear space modified
 ![](./Res/gammauilinearspace.gif)
 
 
-Original solution comes from `topsekret` and `rainini`. You can find it [here](https://forum.unity.com/threads/bug-with-bypass-srgb-sampling.282469/#post-3081103)
+The original solution comes from `topsekret` and `rainini`. You can find it [here](https://forum.unity.com/threads/bug-with-bypass-srgb-sampling.282469/#post-3081103)
 
 The scene comes from Early Prototyping Material Kit.
